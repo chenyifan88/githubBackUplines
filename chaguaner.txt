@@ -1,1 +1,1 @@
-https://laochaguan.yesebo.net/api.php
+http://back.teaapi.info/
