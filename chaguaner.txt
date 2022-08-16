@@ -1,1 +1,1 @@
-http://back.teaapi.info||null
+http://back.teaapi.info
